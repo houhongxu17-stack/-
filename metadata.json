@@ -1,0 +1,7 @@
+{
+  "name": "Birthday Cake Candles",
+  "description": "A high-fidelity 3D interactive birthday cake experience where users can wish and blow out candles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
